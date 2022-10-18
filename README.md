@@ -18,7 +18,7 @@ A Browser(eg.Chrome) extension. We use github issue to interactive with our user
 
 
 ## Offline Crx File
-
+<a href="./release_pkg/favme_1.0.2.crx">offline favme_1.0.2.crx</a>
 
 
 # Plan
