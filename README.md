@@ -8,10 +8,10 @@ A Browser(eg.Chrome) extension. We use github issue to interactive with our user
 
 # Feature
 :art: mark & manage any website you like  
-:art: support i18n  
-:art: support etherum pow account system  
-:art: use https  
-:art: support Chrome  
+:rocket: support i18n  
+:tada: support etherum pow account system  
+:lock: use https  
+:truck: support Chrome  
  
 # Material & Install
 ## Chrome Web Store
