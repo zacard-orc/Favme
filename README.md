@@ -29,6 +29,6 @@ A Browser(eg.Chrome) extension. We use github issue to interactive with our user
 
 
 # Contact us
-Wechat: xxxx
-Twitter: xxxx
-Telegram: xxxx
+Wechat: xxxx  
+Twitter: xxxx  
+Telegram: xxxx  
