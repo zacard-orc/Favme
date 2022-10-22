@@ -18,8 +18,8 @@ A Browser(eg.Chrome) extension. We use github issue to interactive with our user
 Pending Review, Comming Soon
 
 ## Offline Crx File
-<a href="./release_pkg/favme_1.0.3.crx">offline favme_1.0.3.crx</a>
-<a href="./release_pkg/favme_1.0.2.crx">offline favme_1.0.2.crx</a>
+<div><a href="./release_pkg/favme_1.0.3.crx">offline favme_1.0.3.crx</a></div>
+<div><a href="./release_pkg/favme_1.0.2.crx">offline favme_1.0.2.crx</a></div>
 
 
 # Plan
