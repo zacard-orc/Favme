@@ -31,3 +31,9 @@ Pending Review, Comming Soon
 
 # Contact us
 Twitter: https://twitter.com/FavmeWeb3  
+
+# ChangeLog
+1.0.0 Initial  
+1.0.1 Add Search Page  
+1.0.2 Apply for Chrome Web Store  
+1.0.3 Add Privacy Policy  
